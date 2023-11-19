@@ -1,0 +1,11 @@
+.image-med {
+  width: 30%;
+  text-align: center;
+  padding-top: auto
+}
+.image-medium {
+  position: inherit;
+  text-align: center;
+  width: 10%
+}
+
