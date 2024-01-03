@@ -1,11 +1,18 @@
 .image-med {
-  width: 30%;
-  text-align: center;
-  padding-top: auto
+  width: 60%
 }
-.image-medium {
-  position: inherit;
-  text-align: center;
-  width: 10%
+.image-m,
+.image-smaller {
+  width: 80%
+}
+.image,
+.smaller {
+  width: 60%
+}
+.t {
+  color: #0cf
+}
+.imagey {
+  width: 50%
 }
 
